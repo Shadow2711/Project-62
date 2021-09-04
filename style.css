@@ -1,0 +1,45 @@
+body {
+    text-align: center;
+}
+
+#home {
+    background-color: aquamarine;
+    text-align: center;
+}
+
+.menu {
+    z-index: 10;
+    font-family: monospace;
+    font-size: 20px;
+    display: inline;
+    color: black;
+    background-color: white;
+}
+
+h1 {
+    font-size: 90px;
+}
+
+.line {
+    height: 6px;
+    background-color: black;
+    width: 100px;
+    margin: 8px auto;
+}
+
+img {
+    height: 363px;
+}
+
+.links :hover {
+    font-size: 30px;
+    color: aquamarine;
+}
+
+#myCarousel {
+    background-color: aquamarine;
+}
+.container {
+    text-align: center;
+}
+
